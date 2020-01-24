@@ -55,7 +55,7 @@ $ketto = 10;
 print ($egy / $ketto) . '<br>';
 
 
-
+$valamilyen_valtozo = 10;
 
 
 

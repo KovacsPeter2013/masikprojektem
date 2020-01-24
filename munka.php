@@ -16,7 +16,10 @@ $e = 100;
 print $a + $b + $c + $d;
 
 
-
+//ujabb összeadas kerül be
+$k = 10;
+$l = 30;
+print $k + $l;
 
 
 
